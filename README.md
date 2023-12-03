@@ -1,1 +1,1 @@
-# Pr-ctica-3-Controlador-M-quina-Expendedora-Sistema-empotrados-y-de-tiempo-real
+# Practica 3 Controlador Maquina Expendedora. Sistema empotrados y de tiempo real.
