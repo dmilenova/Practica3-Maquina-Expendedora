@@ -28,3 +28,4 @@ CUSTOMER_FOUND: Al detectar un cliente a menos de 1 metro, se muestran los datos
 PREPARING_COFFEE: Cuando se selecciona un producto, el LCD muestra "PREPARANDO CAFE..." durante un tiempo aleatorio entre 4 y 8 segundos, mientras la intensidad del LED2 aumenta proporcionalmente. Finalmente, muestra "RETIRE BEBIDA" durante 3 segundos y vuelve al estado de espera, mostrando "ESPERANDO CLIENTE".
 
 ADMINISTRATOR: Para acceder a este estado, se debe pulsar el botón 5 segundos o más. Aquí se muestran varias opciones como ver los datos del sensor de temperatura, del sensor de distancia, un contador de segundos del programa y una opción para modificar los precios de cada producto. Para salir, se debe pulsar nuevamente el botón durante 5 segundos o más.
+![Esquema](esquema_practica3.pdf)
